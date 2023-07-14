@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body {
+    background-color: rgb(27, 21, 21);
+
+}
+ .Aboutus{
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    height: 70px;
+    padding: 2%;
+    width: 100%
+}
+    
+
+    
+
+.Moreaboutus{
+    min-height: 25vh;
+    background-color: black;
+    color: white;
+   font-family: 'Varela Round', sans-serif;
+   margin: 23px auto;
+   width: 70%;
+   border-radius: 12px;
+   height: 10px;
+   padding: 25px;
+}
